@@ -1,11 +1,12 @@
 <!-- My image here -->
 <div id="image">
-  <img align="center" src="https://github.com/user-attachments/assets/01ccaa7f-c63d-4b7e-98e6-a084ccf25a02" >
+  <img align="center" src="https://github.com/user-attachments/assets/01ccaa7f-c63d-4b7e-98e6-a084ccf25a02">
 </div>
 
-
-<hr>
-
+<!-- Greetings -->
+<div id="Greetings" >
+  <h1 align="center"><i> Hi Buddy ✌️ </i></h1>
+</div>
 
 <!-- My Stats -->
 <div id="Stats">
